@@ -1,2 +1,2 @@
 # Ball-Shooting
-### <a href="">Play it NOW</a>
+### <a href="https://github.com/AditS-H/Ball_shooting_game">Play it NOW</a>
